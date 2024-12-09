@@ -1,0 +1,11 @@
+{
+  "name": "god-tier-backend",
+  "version": "1.0.0",
+  "description": "backend for the god tier node angular docker kubernetes and redis app for cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranav",
+  "license": "ISC"
+}
